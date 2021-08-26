@@ -1,0 +1,10 @@
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\bin\Debug\NewVaccination.exe.config
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\bin\Debug\NewVaccination.exe
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\bin\Debug\NewVaccination.pdb
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\obj\Debug\NewVaccination.csprojAssemblyReference.cache
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\obj\Debug\NewVaccination.Form1.resources
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\obj\Debug\NewVaccination.Properties.Resources.resources
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\obj\Debug\NewVaccination.csproj.GenerateResource.cache
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\obj\Debug\NewVaccination.csproj.CoreCompileInputs.cache
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\obj\Debug\NewVaccination.exe
+C:\Users\nompu\source\repos\NewVaccination\NewVaccination\obj\Debug\NewVaccination.pdb
